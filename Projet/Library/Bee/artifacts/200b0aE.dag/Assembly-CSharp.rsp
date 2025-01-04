@@ -370,6 +370,8 @@
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs"
+"Assets/Scripts/PieceDisappear.cs"
+"Assets/Scripts/RotateObject.cs"
 "Assets/Scripts/SceneManagerScript.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
