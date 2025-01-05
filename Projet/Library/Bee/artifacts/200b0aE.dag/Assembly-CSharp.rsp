@@ -372,6 +372,7 @@
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs"
 "Assets/Scripts/LimitPlayerMovement.cs"
 "Assets/Scripts/PauseMenu.cs"
+"Assets/Scripts/PickUpAndThrow.cs"
 "Assets/Scripts/PieceDisappear.cs"
 "Assets/Scripts/PlayerDeath.cs"
 "Assets/Scripts/RotateObject.cs"
