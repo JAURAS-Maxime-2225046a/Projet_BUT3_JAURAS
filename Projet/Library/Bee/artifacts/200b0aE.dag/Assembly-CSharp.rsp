@@ -375,6 +375,7 @@
 "Assets/Scripts/PieceDisappear.cs"
 "Assets/Scripts/RotateObject.cs"
 "Assets/Scripts/SceneManagerScript.cs"
+"Assets/Scripts/WinCondition.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
