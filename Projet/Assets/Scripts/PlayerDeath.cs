@@ -13,14 +13,13 @@ public class PlayerDeath : MonoBehaviour
     void Start()
     {
         losePanel.SetActive(false);
-
         mainMenuButton.onClick.AddListener(GoToMainMenu);
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        // Si le joueur touche un objet avec le tag "Danger", il meurt
-        if (other.CompareTag("Danger"))
+        // Si le joueur touche un objet avec le tag "Danger" ou "Enemy", il meurt
+        if (other.CompareTag("Danger") || other.CompareTag("Enemy"))
         {
             KillPlayer();
         }
