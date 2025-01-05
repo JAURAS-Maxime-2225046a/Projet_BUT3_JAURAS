@@ -26,7 +26,7 @@ public class PauseMenu : MonoBehaviour
 
     void Update()
     {
-        // Optionnel : Si vous voulez que le jeu soit aussi mis en pause en appuyant sur la touche "Escape"
+        
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (isPaused)
@@ -59,7 +59,7 @@ public class PauseMenu : MonoBehaviour
     // Fonction pour retourner au menu principal
     public void GoToMainMenu()
     {
-        Time.timeScale = 1f;  // Assurez-vous de réactiver le temps avant de charger une nouvelle scène
-        SceneManager.LoadScene("Main Menu");  // Remplacez "Main Menu" par le nom de votre scène
+        Time.timeScale = 1f;  
+        SceneManager.LoadScene("Main Menu");  
     }
 }

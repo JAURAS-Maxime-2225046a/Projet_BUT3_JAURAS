@@ -52,8 +52,7 @@ public class WinCondition : MonoBehaviour
     void GoToMainMenu()
     {
         Time.timeScale = 1f;  // Assurez-vous que le temps reprend
-        // Réinitialisez toute autre logique si nécessaire
-        SceneManager.LoadScene("Main Menu");  // Remplacez "Main Menu" par le nom de votre scène de menu principal
+        SceneManager.LoadScene("Main Menu");  
     }
 
     // Fonction pour assurer que Time.timeScale est réinitialisé lors du changement de scène

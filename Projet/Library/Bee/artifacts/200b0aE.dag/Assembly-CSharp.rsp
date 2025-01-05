@@ -373,6 +373,7 @@
 "Assets/Scripts/LimitPlayerMovement.cs"
 "Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/PieceDisappear.cs"
+"Assets/Scripts/PlayerDeath.cs"
 "Assets/Scripts/RotateObject.cs"
 "Assets/Scripts/SceneManagerScript.cs"
 "Assets/Scripts/WinCondition.cs"
